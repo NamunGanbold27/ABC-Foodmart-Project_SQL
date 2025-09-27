@@ -2,22 +2,6 @@
 
 This repository contains the final project for APAN5310 (SQL & Data Management), where we designed and implemented a relational database system for ABC Foodmart, a growing grocery chain expanding from 2 to 5 locations. The project includes database schema design, sample data, ER diagram, documentation, and final deliverables.
 
-##Repository Structure
-abc-foodmart-sql-database/  
-├─ docs/  
-│   ├─ APAN5310SQL_Checkpoints.docx   # Project checkpoints & notes  
-│   ├─ Group5_ER Diagram.pdf          # Entity-Relationship Diagram  
-│   ├─ Group5_Final Presentation.pdf  # Final presentation slides  
-│   └─ Group5_Final Report.pdf        # Final project report  
-├─ sql/  
-│   └─ code.sql                       # Database schema (DDL, constraints, triggers)  
-├─ data/  
-│   ├─ customers_sales.csv            # Sample customer/sales data  
-│   ├─ employees_shifts.csv           # Sample employee/shift schedule data  
-│   ├─ products_vendor_orders.csv     # Sample products, vendors, and orders  
-│   └─ stores.csv                     # Store location data  
-└─ README.md  
-
 ##Project Overview
 **Business Problem:** ABC Foodmart relied on spreadsheets and manual processes, leading to errors, data silos, and poor decision-making as the business scaled.  
 **Solution:** Designed a PostgreSQL relational database in Third Normal Form (3NF) with 16+ interconnected tables. Implemented triggers for automation, developed ETL scripts to transform raw spreadsheets into the new schema, and built interactive dashboards for executives.  
