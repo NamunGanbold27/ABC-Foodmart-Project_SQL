@@ -20,9 +20,3 @@ Our team designed and implemented a relational database for **ABC Foodmart**, a 
 - **ETL Pipeline:** Python-based scripts used to transform Excel/CSV input into the PostgreSQL schema.  
 - **Analytics:** SQL queries for profitability, sales seasonality, supplier performance, and customer loyalty.  
 - **Dashboards:** Metabase dashboards with KPIs for executives.
-
-## Getting Started
-1. Clone repo:
-   ```bash
-   git clone https://github.com/your-username/abc-foodmart-sql-database.git
-   cd abc-foodmart-sql-database/sql
