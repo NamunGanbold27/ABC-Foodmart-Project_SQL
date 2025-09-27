@@ -1,4 +1,4 @@
-#ABC Foodmart SQL Database Project
+# ABC Foodmart SQL Database Project
 
 This repository contains the final project for APAN5310 (SQL & Data Management), where we designed and implemented a relational database system for ABC Foodmart, a growing grocery chain expanding from 2 to 5 locations. The project includes database schema design, sample data, ER diagram, documentation, and final deliverables.
 
@@ -11,7 +11,7 @@ This repository contains the final project for APAN5310 (SQL & Data Management),
 - Sample datasets for demonstration  
 - Written report and final presentation slides  
 
-##Features
+## Features
 - Database Schema: Covers locations, employees, staffing, customers, products, suppliers, sales, inventory, deliveries, promotions, expenses, and returns.  
 - Automation with Triggers: Updates sales totals, adjusts inventory on sales/deliveries, sets expiration dates, and monitors delivery status.  
 - ETL Pipeline: Python scripts (described in docs) extract, transform, and load Excel/CSV files into PostgreSQL.  
@@ -35,17 +35,17 @@ This repository contains the final project for APAN5310 (SQL & Data Management),
 
 4. (Optional) Explore dashboards in Metabase by connecting to your database.  
 
-##Results & Insights
+## Results & Insights
 - Enabled profitability tracking per store and product.  
 - Improved supplier performance monitoring (late deliveries, return rates).  
 - Found seasonal sales patterns (e.g., ice cream in summer, steady soda sales).  
 - Customer loyalty rate exceeded 60% repurchase, far above industry averages.  
 
-##Contributors
+## Contributors
 - Namun Ganbold  
 - Sara Shreim  
 - Jaejun Lee  
 - Min Sung Kim  
 
-## 📜 License
+## License
 This project is for academic purposes (Columbia University, APAN5310).
