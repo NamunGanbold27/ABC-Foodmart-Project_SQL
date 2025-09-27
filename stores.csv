@@ -1,0 +1,401 @@
+store_name,store_street,store_city,store_state,store_zipcode,store_manager,store_open_date,store_parking_capacity,store_expense_date,store_expense_type,store_expense_amount,store_expense_description
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2024-04-01,rent,6500,April rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2024-03-01,rent,6500,March rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2024-02-01,rent,6500,February rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2024-01-01,rent,6500,January rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-12-01,rent,6000,December rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-11-01,rent,6000,November rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-10-01,rent,6000,October rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-09-01,rent,6000,September rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-08-01,rent,6000,August rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-07-01,rent,6000,July rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-06-01,rent,6000,June rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-05-01,rent,6000,May rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-04-01,rent,6000,April rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-03-01,rent,6000,March rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-02-01,rent,6000,February rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-01-01,rent,6000,January rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-12-01,rent,5500,December rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-11-01,rent,5500,November rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-10-01,rent,5500,October rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-09-01,rent,5500,September rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-08-01,rent,5500,August rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-07-01,rent,5500,July rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-06-01,rent,5500,June rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-05-01,rent,5500,May rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-04-01,rent,5500,April rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-03-01,rent,5500,March rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-02-01,rent,5500,February rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-01-01,rent,5500,January rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-12-01,rent,5000,December rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-11-01,rent,5000,November rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-10-01,rent,5000,October rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-09-01,rent,5000,September rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-08-01,rent,5000,August rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-07-01,rent,5000,July rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-06-01,rent,5000,June rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-05-01,rent,5000,May rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-04-01,rent,5000,April rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-03-01,rent,5000,March rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-02-01,rent,5000,February rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-01-01,rent,5000,January rent payment
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2024-04-01,utilities,1530,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2024-03-01,utilities,1294,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2024-02-01,utilities,1578,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2024-01-01,utilities,1848,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-12-01,utilities,1277,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-11-01,utilities,1299,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-10-01,utilities,1670,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-09-01,utilities,1339,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-08-01,utilities,1908,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-07-01,utilities,1694,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-06-01,utilities,1640,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-05-01,utilities,1607,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-04-01,utilities,1732,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-03-01,utilities,1258,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-02-01,utilities,1008,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2023-01-01,utilities,1139,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-12-01,utilities,1790,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-11-01,utilities,1761,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-10-01,utilities,1217,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-09-01,utilities,1212,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-08-01,utilities,1773,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-07-01,utilities,1469,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-06-01,utilities,1887,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-05-01,utilities,1586,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-04-01,utilities,1055,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-03-01,utilities,1712,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-02-01,utilities,1810,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2022-01-01,utilities,1358,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-12-01,utilities,1999,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-11-01,utilities,1534,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-10-01,utilities,1928,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-09-01,utilities,1971,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-08-01,utilities,1721,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-07-01,utilities,1788,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-06-01,utilities,1906,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-05-01,utilities,1107,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-04-01,utilities,1449,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-03-01,utilities,1471,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-02-01,utilities,1673,"gas, water, electricity"
+ABC Foodmart - DUMBO,123 Jay Street,Brooklyn,NY,11201,"Hoffman, Tina",2017-06-18,50,2021-01-01,utilities,1628,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2024-04-01,rent,11000,April rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2024-03-01,rent,11000,March rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2024-02-01,rent,11000,February rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2024-01-01,rent,11000,January rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-12-01,rent,10000,December rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-11-01,rent,10000,November rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-10-01,rent,10000,October rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-09-01,rent,10000,September rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-08-01,rent,10000,August rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-07-01,rent,10000,July rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-06-01,rent,10000,June rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-05-01,rent,10000,May rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-04-01,rent,10000,April rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-03-01,rent,10000,March rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-02-01,rent,10000,February rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-01-01,rent,10000,January rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-12-01,rent,9500,December rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-11-01,rent,9500,November rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-10-01,rent,9500,October rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-09-01,rent,9500,September rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-08-01,rent,9500,August rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-07-01,rent,9500,July rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-06-01,rent,9500,June rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-05-01,rent,9500,May rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-04-01,rent,9500,April rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-03-01,rent,9500,March rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-02-01,rent,9500,February rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-01-01,rent,9500,January rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-12-01,rent,9000,December rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-11-01,rent,9000,November rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-10-01,rent,9000,October rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-09-01,rent,9000,September rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-08-01,rent,9000,August rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-07-01,rent,9000,July rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-06-01,rent,9000,June rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-05-01,rent,9000,May rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-04-01,rent,9000,April rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-03-01,rent,9000,March rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-02-01,rent,9000,February rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-01-01,rent,9000,January rent payment
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2024-04-01,utilities,1449,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2024-03-01,utilities,1707,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2024-02-01,utilities,1498,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2024-01-01,utilities,1744,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-12-01,utilities,1257,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-11-01,utilities,1538,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-10-01,utilities,1733,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-09-01,utilities,1350,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-08-01,utilities,1619,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-07-01,utilities,1607,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-06-01,utilities,1353,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-05-01,utilities,1809,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-04-01,utilities,1080,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-03-01,utilities,1909,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-02-01,utilities,1818,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2023-01-01,utilities,1499,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-12-01,utilities,1700,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-11-01,utilities,1978,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-10-01,utilities,1588,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-09-01,utilities,1145,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-08-01,utilities,1660,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-07-01,utilities,1315,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-06-01,utilities,1813,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-05-01,utilities,1257,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-04-01,utilities,1914,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-03-01,utilities,1362,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-02-01,utilities,1359,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2022-01-01,utilities,1036,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-12-01,utilities,1144,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-11-01,utilities,1059,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-10-01,utilities,1335,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-09-01,utilities,1734,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-08-01,utilities,1431,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-07-01,utilities,1850,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-06-01,utilities,1706,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-05-01,utilities,1767,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-04-01,utilities,1029,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-03-01,utilities,1049,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-02-01,utilities,1442,"gas, water, electricity"
+ABC Foodmart - Tribeca,133 Chambers Street,New York,NY,10013,"Ellis, Grant",2015-01-09,0,2021-01-01,utilities,1875,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2024-04-01,rent,9000,April rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2024-03-01,rent,9000,March rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2024-02-01,rent,9000,February rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2024-01-01,rent,9000,January rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-12-01,rent,8750,December rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-11-01,rent,8750,November rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-10-01,rent,8750,October rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-09-01,rent,8750,September rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-08-01,rent,8750,August rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-07-01,rent,8750,July rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-06-01,rent,8750,June rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-05-01,rent,8750,May rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-04-01,rent,8750,April rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-03-01,rent,8750,March rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-02-01,rent,8750,February rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-01-01,rent,8750,January rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-12-01,rent,8500,December rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-11-01,rent,8500,November rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-10-01,rent,8500,October rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-09-01,rent,8500,September rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-08-01,rent,8500,August rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-07-01,rent,8500,July rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-06-01,rent,8500,June rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-05-01,rent,8500,May rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-04-01,rent,8500,April rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-03-01,rent,8500,March rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-02-01,rent,8500,February rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-01-01,rent,8500,January rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-12-01,rent,8250,December rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-11-01,rent,8250,November rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-10-01,rent,8250,October rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-09-01,rent,8250,September rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-08-01,rent,8250,August rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-07-01,rent,8250,July rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-06-01,rent,8250,June rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-05-01,rent,8250,May rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-04-01,rent,8250,April rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-03-01,rent,8250,March rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-02-01,rent,8250,February rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-01-01,rent,8250,January rent payment
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2024-04-01,utilities,1574,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2024-03-01,utilities,1618,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2024-02-01,utilities,1850,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2024-01-01,utilities,1189,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-12-01,utilities,1820,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-11-01,utilities,1737,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-10-01,utilities,1416,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-09-01,utilities,1401,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-08-01,utilities,1788,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-07-01,utilities,1055,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-06-01,utilities,1513,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-05-01,utilities,1135,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-04-01,utilities,1789,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-03-01,utilities,1111,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-02-01,utilities,1808,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2023-01-01,utilities,1208,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-12-01,utilities,1341,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-11-01,utilities,1230,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-10-01,utilities,1040,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-09-01,utilities,1743,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-08-01,utilities,1447,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-07-01,utilities,1147,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-06-01,utilities,1154,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-05-01,utilities,1953,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-04-01,utilities,1025,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-03-01,utilities,1721,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-02-01,utilities,1386,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2022-01-01,utilities,1034,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-12-01,utilities,1577,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-11-01,utilities,1340,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-10-01,utilities,1057,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-09-01,utilities,1771,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-08-01,utilities,1302,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-07-01,utilities,1084,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-06-01,utilities,1260,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-05-01,utilities,1338,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-04-01,utilities,1951,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-03-01,utilities,1231,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-02-01,utilities,1541,"gas, water, electricity"
+ABC Foodmart - Bay Ridge,8518 3rd Ave,Brooklyn,NY,11209,"Cooper, Robert",2009-09-10,0,2021-01-01,utilities,1353,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2024-04-01,rent,18000,April rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2024-03-01,rent,18000,March rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2024-02-01,rent,18000,February rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2024-01-01,rent,18000,January rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-12-01,rent,16500,December rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-11-01,rent,16500,November rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-10-01,rent,16500,October rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-09-01,rent,16500,September rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-08-01,rent,16500,August rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-07-01,rent,16500,July rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-06-01,rent,16500,June rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-05-01,rent,16500,May rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-04-01,rent,16500,April rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-03-01,rent,16500,March rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-02-01,rent,16500,February rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-01-01,rent,16500,January rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-12-01,rent,16000,December rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-11-01,rent,16000,November rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-10-01,rent,16000,October rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-09-01,rent,16000,September rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-08-01,rent,16000,August rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-07-01,rent,16000,July rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-06-01,rent,16000,June rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-05-01,rent,16000,May rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-04-01,rent,16000,April rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-03-01,rent,16000,March rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-02-01,rent,16000,February rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-01-01,rent,16000,January rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-12-01,rent,14500,December rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-11-01,rent,14500,November rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-10-01,rent,14500,October rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-09-01,rent,14500,September rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-08-01,rent,14500,August rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-07-01,rent,14500,July rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-06-01,rent,14500,June rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-05-01,rent,14500,May rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-04-01,rent,14500,April rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-03-01,rent,14500,March rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-02-01,rent,14500,February rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-01-01,rent,14500,January rent payment
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2024-04-01,utilities,1684,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2024-03-01,utilities,1474,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2024-02-01,utilities,1994,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2024-01-01,utilities,1362,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-12-01,utilities,1091,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-11-01,utilities,1068,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-10-01,utilities,1866,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-09-01,utilities,1806,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-08-01,utilities,1287,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-07-01,utilities,1190,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-06-01,utilities,1911,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-05-01,utilities,1033,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-04-01,utilities,1706,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-03-01,utilities,1990,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-02-01,utilities,1228,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2023-01-01,utilities,1031,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-12-01,utilities,1841,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-11-01,utilities,1160,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-10-01,utilities,1271,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-09-01,utilities,1407,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-08-01,utilities,1623,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-07-01,utilities,1382,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-06-01,utilities,1018,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-05-01,utilities,1571,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-04-01,utilities,1603,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-03-01,utilities,1646,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-02-01,utilities,1073,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2022-01-01,utilities,1239,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-12-01,utilities,1379,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-11-01,utilities,1305,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-10-01,utilities,1561,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-09-01,utilities,1117,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-08-01,utilities,1949,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-07-01,utilities,1672,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-06-01,utilities,1281,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-05-01,utilities,1063,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-04-01,utilities,1803,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-03-01,utilities,1123,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-02-01,utilities,1518,"gas, water, electricity"
+ABC Foodmart - Whitestone,153-65 Cross Island Pkwy,Whitestone,NY,11357,"Flores, Angela",2001-06-05,200,2021-01-01,utilities,1163,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2024-04-01,rent,12000,April rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2024-03-01,rent,12000,March rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2024-02-01,rent,12000,February rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2024-01-01,rent,12000,January rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-12-01,rent,11000,December rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-11-01,rent,11000,November rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-10-01,rent,11000,October rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-09-01,rent,11000,September rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-08-01,rent,11000,August rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-07-01,rent,11000,July rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-06-01,rent,11000,June rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-05-01,rent,11000,May rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-04-01,rent,11000,April rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-03-01,rent,11000,March rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-02-01,rent,11000,February rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-01-01,rent,11000,January rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-12-01,rent,11000,December rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-11-01,rent,11000,November rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-10-01,rent,11000,October rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-09-01,rent,11000,September rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-08-01,rent,11000,August rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-07-01,rent,11000,July rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-06-01,rent,11000,June rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-05-01,rent,11000,May rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-04-01,rent,11000,April rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-03-01,rent,11000,March rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-02-01,rent,11000,February rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-01-01,rent,11000,January rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-12-01,rent,10000,December rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-11-01,rent,10000,November rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-10-01,rent,10000,October rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-09-01,rent,10000,September rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-08-01,rent,10000,August rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-07-01,rent,10000,July rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-06-01,rent,10000,June rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-05-01,rent,10000,May rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-04-01,rent,10000,April rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-03-01,rent,10000,March rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-02-01,rent,10000,February rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-01-01,rent,10000,January rent payment
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2024-04-01,utilities,1600,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2024-03-01,utilities,1963,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2024-02-01,utilities,1259,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2024-01-01,utilities,1829,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-12-01,utilities,1207,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-11-01,utilities,1748,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-10-01,utilities,1379,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-09-01,utilities,1485,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-08-01,utilities,1751,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-07-01,utilities,1395,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-06-01,utilities,1482,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-05-01,utilities,1463,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-04-01,utilities,1061,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-03-01,utilities,1125,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-02-01,utilities,1711,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2023-01-01,utilities,1409,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-12-01,utilities,1565,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-11-01,utilities,1250,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-10-01,utilities,1807,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-09-01,utilities,1916,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-08-01,utilities,1250,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-07-01,utilities,1870,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-06-01,utilities,1093,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-05-01,utilities,1099,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-04-01,utilities,1787,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-03-01,utilities,1765,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-02-01,utilities,1874,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2022-01-01,utilities,1532,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-12-01,utilities,1287,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-11-01,utilities,1188,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-10-01,utilities,1928,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-09-01,utilities,1284,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-08-01,utilities,1456,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-07-01,utilities,1772,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-06-01,utilities,1418,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-05-01,utilities,1823,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-04-01,utilities,1090,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-03-01,utilities,1486,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-02-01,utilities,1523,"gas, water, electricity"
+ABC Foodmart - Staten Island,2655 Richmond Ave,Staten Island,NY,10314,"Farrell, Christopher",2012-10-16,500,2021-01-01,utilities,1159,"gas, water, electricity"
